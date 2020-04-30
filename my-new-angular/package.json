@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "rxjs": "6.2.1",
-    "jquery": "3.3.1",
+    "jquery": "3.5.0",
     "core-js": "2.5.7",
     "primeng": "6.0.0",
     "zone.js": "0.8.26",
